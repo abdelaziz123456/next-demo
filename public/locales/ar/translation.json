@@ -1,0 +1,14 @@
+{
+   "Arabic":"العربية",
+   "English":"الانجليزية",
+   "Get started by editing":"ابدأ بالتعديل",
+   "Welcome to":"مرحبا بك فى ",
+   "Documentation":"توثيق",
+   "Learn":"تعلم",
+   "Examples":"امثلة",
+   "Deploy":"نشر",
+   "Find in-depth information about Next.js features and API.":"تعرف على معلومات بالتفصيل عن امكانيات next js",
+   "Learn about Next.js in an interactive course with quizzes!":"تعرف على next عن طريق دورة تفاعلية واسئلة",
+   "Discover and deploy boilerplate example Next.js projects.":"اكتشاف ونشر أمثلة النموذج المعياري لمشاريع Next.js.",
+   "Instantly deploy your Next.js site to a public URL with Vercel.":"انشر موقع Next.js الخاص بك على الفور إلى عنوان URL عام باستخدام Vercel."
+}
