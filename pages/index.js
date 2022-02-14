@@ -4,11 +4,15 @@ import styles from '../styles/Home.module.css';
 
 import { Trans, useTranslation } from 'react-i18next';
 export default function Home() {
+
   let [t,i18n]=useTranslation();
+  
  function languageHandler(lang){
   
  i18n.changeLanguage(lang)
   }
+
+
   return (
     <div className={`${styles.container} ${i18n.language==='ar' ? styles.rtl : styles.ltr  }`  }>
       <Head>
